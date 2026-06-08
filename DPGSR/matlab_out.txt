@@ -1,0 +1,16 @@
+ 
+要开始，请键入 doc。
+有关产品信息，请访问 www.mathworks.com。
+ 
+iter 1,mu=1.1e+00,rank=12,stopALM=1.342e+00
+iter 2,mu=1.3e+00,rank=12,stopALM=9.951e-01
+iter 3,mu=1.6e+00,rank=12,stopALM=9.981e-02
+iter 4,mu=1.9e+00,rank=12,stopALM=1.730e-02
+iter 5,mu=2.3e+00,rank=12,stopALM=3.498e-03
+iter 6,mu=2.7e+00,rank=12,stopALM=8.055e-04
+iter 7,mu=3.3e+00,rank=12,stopALM=2.089e-04
+iter 8,mu=3.9e+00,rank=12,stopALM=6.048e-05
+iter 1, mu=1.1e+00, rank=12, stopALM=5.904e-01
+iter 31, mu=2.6e+02, rank=12, stopALM=9.898e-05
+Max difference F1(F12) vs F2(L21): 0.0000000000e+00
+L12 and L21 produce IDENTICAL results!

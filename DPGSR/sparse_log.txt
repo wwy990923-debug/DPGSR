@@ -1,0 +1,16 @@
+ 
+要开始，请键入 doc。
+有关产品信息，请访问 www.mathworks.com。
+ 
+Sparse Reverse Test (K=15, nt=8)
+lambda3 > 0: L1 penalty per row of Z
+
+lam2     lam3         FwdAcc     RevAcc     FusAcc   Broken    Fixed   ZDensity
+----     ----         ------     ------     ------   ------    -----   --------
+函数或变量 'k_bi' 无法识别。
+
+出错 DPGSR_Fusion (第 64 行)
+if nargin < 15 || isempty(k_bi)
+
+出错 test_sparse_rev (第 37 行)
+            [pred_fusion, ~, out] = DPGSR_Fusion(S, T, S_label, T_label, nt, ...

@@ -1,0 +1,121 @@
+ 
+要开始，请键入 doc。
+有关产品信息，请访问 www.mathworks.com。
+ 
+iter 1,mu=1.1e+00,rank=50,stopALM=8.903e-01
+iter 2,mu=1.3e+00,rank=120,stopALM=6.173e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=4.301e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=1.468e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=9.074e-03
+iter 6,mu=2.7e+00,rank=120,stopALM=5.880e-03
+iter 7,mu=3.3e+00,rank=120,stopALM=4.849e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.103e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.967e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=2.356e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.605e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=1.244e-03
+iter 13,mu=9.8e+00,rank=120,stopALM=8.962e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=5.931e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=4.513e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=3.364e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=2.466e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=1.269e-04
+iter 19,mu=2.9e+01,rank=120,stopALM=8.152e-05
+iter 1, mu=1.1e+00, rank=50, stopALM=1.828e-01
+iter 10, mu=5.7e+00, rank=120, stopALM=6.821e-05
+iter 1,mu=1.1e+00,rank=50,stopALM=7.355e-01
+iter 2,mu=1.3e+00,rank=120,stopALM=4.762e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=4.554e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=1.561e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=8.377e-03
+iter 6,mu=2.7e+00,rank=120,stopALM=6.415e-03
+iter 7,mu=3.3e+00,rank=120,stopALM=5.033e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.991e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.000e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.905e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.642e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=1.522e-03
+iter 13,mu=9.8e+00,rank=120,stopALM=1.346e-03
+iter 14,mu=1.2e+01,rank=120,stopALM=6.910e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=4.848e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=4.162e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=3.257e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=2.264e-04
+iter 19,mu=2.9e+01,rank=120,stopALM=2.016e-04
+iter 20,mu=3.5e+01,rank=120,stopALM=1.405e-04
+iter 21,mu=4.2e+01,rank=120,stopALM=1.148e-04
+iter 22,mu=5.1e+01,rank=120,stopALM=8.532e-05
+iter 1, mu=1.1e+00, rank=50, stopALM=1.347e-01
+iter 10, mu=5.7e+00, rank=120, stopALM=7.801e-05
+iter 1,mu=1.1e+00,rank=50,stopALM=1.129e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=7.354e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=5.607e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=1.634e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=9.857e-03
+iter 6,mu=2.7e+00,rank=120,stopALM=6.643e-03
+iter 7,mu=3.3e+00,rank=120,stopALM=5.162e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.577e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.622e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=2.404e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.256e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=1.113e-03
+iter 13,mu=9.8e+00,rank=120,stopALM=9.959e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=8.490e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=6.968e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=5.494e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=4.118e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=2.862e-04
+iter 19,mu=2.9e+01,rank=120,stopALM=1.767e-04
+iter 20,mu=3.5e+01,rank=120,stopALM=9.624e-05
+iter 1, mu=1.1e+00, rank=50, stopALM=1.320e-01
+iter 10, mu=5.7e+00, rank=120, stopALM=6.968e-05
+iter 1,mu=1.1e+00,rank=50,stopALM=9.164e-01
+iter 2,mu=1.3e+00,rank=120,stopALM=6.092e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=3.515e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=1.472e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=1.101e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=6.351e-03
+iter 7,mu=3.3e+00,rank=120,stopALM=4.874e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.584e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.307e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.977e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.658e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=1.109e-03
+iter 13,mu=9.8e+00,rank=120,stopALM=8.954e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=8.239e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=7.393e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=4.031e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=3.024e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=2.350e-04
+iter 19,mu=2.9e+01,rank=120,stopALM=2.060e-04
+iter 20,mu=3.5e+01,rank=120,stopALM=1.057e-04
+iter 21,mu=4.2e+01,rank=120,stopALM=5.591e-05
+iter 1, mu=1.1e+00, rank=50, stopALM=1.268e-01
+iter 10, mu=5.7e+00, rank=120, stopALM=7.461e-05
+iter 1,mu=1.1e+00,rank=50,stopALM=8.996e-01
+iter 2,mu=1.3e+00,rank=120,stopALM=6.254e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=4.650e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=1.802e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=1.240e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=9.040e-03
+iter 7,mu=3.3e+00,rank=120,stopALM=5.598e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.656e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.586e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.923e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.337e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=1.007e-03
+iter 13,mu=9.8e+00,rank=120,stopALM=8.293e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=6.400e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=5.968e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=5.293e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=4.469e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=3.580e-04
+iter 19,mu=2.9e+01,rank=120,stopALM=2.605e-04
+iter 20,mu=3.5e+01,rank=120,stopALM=1.011e-04
+iter 21,mu=4.2e+01,rank=120,stopALM=9.518e-05
+iter 1, mu=1.1e+00, rank=50, stopALM=1.698e-01
+iter 9, mu=4.7e+00, rank=120, stopALM=9.544e-05
+PCA-50 verification score:
+  Fwd CORRECT: mean=0.7889 std=0.1856
+  Fwd WRONG:   mean=0.3774 std=0.2272
+  Gap: 0.4115

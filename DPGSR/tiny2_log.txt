@@ -1,0 +1,1256 @@
+ 
+要开始，请键入 doc。
+有关产品信息，请访问 www.mathworks.com。
+ 
+=== Tiny Sample DPGSR Test (K=15) ===
+
+iter 1,mu=1.1e+00,rank=15,stopALM=1.002e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.094e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.008e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.028e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.809e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.903e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.725e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=8.523e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.042e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.511e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.701e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.029e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=2.974e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.625e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.555e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.260e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.233e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.083e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=7.415e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.166e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=7.721e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.784e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=5.999e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.208e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=8.819e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.792e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=1.741e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=8.472e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=4.339e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.324e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.294e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=7.453e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.521e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=9.653e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.201e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.521e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.646e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.646e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.568e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.755e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.669e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=8.005e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.875e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=8.084e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.273e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.238e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.966e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.631e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.765e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.191e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=8.072e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=5.494e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=3.752e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=2.569e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.763e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=1.213e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=8.353e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.761e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=3.978e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=2.750e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=1.902e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.317e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=9.118e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.959e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=7.656e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.189e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.383e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.932e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.796e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=2.738e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=2.642e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.557e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.277e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.165e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.217e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=7.565e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.119e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.069e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.819e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.499e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=3.936e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=3.270e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.728e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=7.063e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.485e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=9.271e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.821e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.504e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.753e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=1.047e-01
+iter 5,mu=2.3e+00,rank=15,stopALM=4.330e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.921e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=9.055e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=4.513e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=2.361e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.288e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=7.286e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=4.254e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=2.551e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=1.565e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=9.797e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.369e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=8.949e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.264e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.232e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.593e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=5.316e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.693e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.776e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=1.182e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=7.924e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=5.343e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=3.621e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=2.464e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=1.682e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=1.152e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=7.904e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=5.435e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=3.744e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=2.582e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.783e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.232e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=8.523e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=6.795e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=8.414e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.060e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.664e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.777e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.949e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=4.123e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=2.503e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.557e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=5.633e-06
+iter 1, mu=1.1e+00, rank=15, stopALM=8.608e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=8.747e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.040e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.357e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.573e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=5.200e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.887e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=7.441e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.162e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=1.437e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=6.927e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=3.519e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.872e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.036e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=5.933e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.954e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=6.990e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.052e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.563e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.457e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.884e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=4.609e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.792e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.244e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.433e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.562e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=8.278e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.848e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.084e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=1.254e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=5.777e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=3.789e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=2.509e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=1.674e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=1.125e-02
+iter 9,mu=4.7e+00,rank=15,stopALM=7.596e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=5.154e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=3.510e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=2.398e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=1.643e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=1.128e-03
+iter 15,mu=1.4e+01,rank=15,stopALM=7.762e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=5.348e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=3.689e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=2.548e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.762e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.219e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=8.436e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.623e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=8.176e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.095e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.656e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.231e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.475e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.089e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=3.759e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=1.416e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=5.773e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.528e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.180e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=5.823e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.155e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=6.254e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=8.402e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=6.863e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.532e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.855e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=3.083e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=2.861e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=6.632e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.347e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=8.507e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=8.954e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.249e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.581e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.870e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=3.451e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=2.043e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.338e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.237e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.149e+00
+iter 18, mu=2.4e+01, rank=15, stopALM=8.270e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.958e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=8.110e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=8.117e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.357e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.651e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=5.902e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.482e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=6.617e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.361e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=7.846e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.466e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.696e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=4.502e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=5.581e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=8.255e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.963e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.124e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.438e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.225e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=8.772e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.029e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.234e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.585e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.612e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.499e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=7.845e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.154e-01
+iter 19, mu=2.9e+01, rank=15, stopALM=2.671e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.151e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.274e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.018e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.194e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.913e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.154e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.095e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.029e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.545e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.849e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=8.776e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.259e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.299e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.943e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=6.791e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.589e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.067e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=4.720e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.222e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.105e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=5.770e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=3.142e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.775e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.035e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=6.201e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.325e-01
+iter 21, mu=4.2e+01, rank=15, stopALM=6.620e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=2.064e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.564e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=1.137e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=1.096e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.275e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=3.495e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.781e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.306e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=7.541e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=8.855e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.265e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.396e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.595e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.298e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=1.144e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.048e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=9.447e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.687e-01
+iter 21, mu=4.2e+01, rank=15, stopALM=3.752e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.194e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.788e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=5.904e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.029e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.073e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.737e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.217e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=3.490e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.593e-01
+iter 21, mu=4.2e+01, rank=15, stopALM=6.634e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.240e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.878e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.533e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.798e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.324e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=7.301e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.720e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=6.406e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.154e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.473e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=7.921e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=9.054e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.456e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=8.967e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=7.944e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=5.678e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.018e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.927e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.325e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=8.113e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.204e-01
+iter 17, mu=2.0e+01, rank=15, stopALM=7.172e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.912e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.390e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=1.397e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=1.785e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.788e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=8.326e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=3.529e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.263e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.848e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=9.262e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.641e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=7.830e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.014e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.080e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.480e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.074e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.314e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=4.542e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=1.616e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.358e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.107e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=8.692e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.066e-01
+iter 17, mu=2.0e+01, rank=15, stopALM=7.782e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.092e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.387e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.330e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.409e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=7.183e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=5.498e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.301e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.630e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.294e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=4.974e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.823e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=7.607e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=2.635e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=7.764e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.534e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=9.744e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=6.302e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=4.124e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=2.725e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=1.815e-02
+iter 9,mu=4.7e+00,rank=15,stopALM=1.217e-02
+iter 10,mu=5.7e+00,rank=15,stopALM=8.212e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=5.566e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=3.788e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=2.586e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=1.771e-03
+iter 15,mu=1.4e+01,rank=15,stopALM=1.215e-03
+iter 16,mu=1.7e+01,rank=15,stopALM=8.357e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=5.756e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=3.970e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=2.741e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.895e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=1.311e-04
+iter 22,mu=5.1e+01,rank=15,stopALM=9.071e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.040e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=8.144e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.642e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.124e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.522e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=9.445e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=3.839e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.677e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=7.808e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=3.848e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.988e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.074e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=6.029e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=3.496e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=2.084e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=1.273e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=7.932e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.882e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=7.258e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.061e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.450e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.225e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.480e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.100e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=3.832e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=1.456e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=5.987e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.641e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.241e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=6.159e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.786e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=7.097e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.331e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.481e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.238e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.152e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.807e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.051e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=6.414e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.679e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.386e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=9.127e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.916e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=7.085e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.293e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.037e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=5.005e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=6.211e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.347e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.103e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.695e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.342e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.140e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=9.497e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.470e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=8.408e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.084e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=7.531e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.649e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=5.701e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.153e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=8.812e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.871e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=1.812e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=8.966e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=4.660e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.528e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.424e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=8.276e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.261e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=6.631e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.034e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.310e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.628e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.886e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.710e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.443e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=6.598e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.795e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.651e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=7.587e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.876e-01
+iter 17, mu=2.0e+01, rank=15, stopALM=9.371e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.582e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.676e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.509e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.689e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=4.672e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=2.778e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.586e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.375e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.146e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.043e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=9.727e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.064e+00
+iter 16, mu=1.7e+01, rank=15, stopALM=7.000e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.068e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.513e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.719e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.749e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=9.913e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=3.535e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.820e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=1.694e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.237e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.055e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=6.478e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.456e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=9.953e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.478e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.643e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.231e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.161e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=6.450e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=6.063e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.396e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.027e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.276e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=9.080e-06
+iter 1, mu=1.1e+00, rank=15, stopALM=1.173e+00
+iter 16, mu=1.7e+01, rank=15, stopALM=8.840e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.801e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.939e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.520e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.225e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=8.562e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=7.271e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.681e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.297e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.607e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.239e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.085e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=8.643e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.671e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=9.651e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.210e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.707e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=4.080e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.661e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.765e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.179e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=7.933e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=5.364e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=3.643e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=2.483e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.698e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=1.164e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=7.997e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.504e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=3.793e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=2.618e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=1.808e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.250e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=8.652e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.281e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=4.128e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.072e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.387e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.070e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.688e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.397e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=5.734e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=2.527e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=1.186e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=5.887e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=3.068e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.668e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=9.410e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.686e-01
+iter 19, mu=2.9e+01, rank=15, stopALM=7.067e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.163e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.361e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.335e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.495e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.384e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=6.953e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=4.086e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.509e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.903e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.242e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.292e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=9.125e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=2.724e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.036e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.671e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=1.054e-01
+iter 5,mu=2.3e+00,rank=15,stopALM=6.778e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=4.417e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=2.909e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=1.932e-02
+iter 9,mu=4.7e+00,rank=15,stopALM=1.293e-02
+iter 10,mu=5.7e+00,rank=15,stopALM=8.704e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=5.890e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=4.003e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=2.730e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=1.867e-03
+iter 15,mu=1.4e+01,rank=15,stopALM=1.280e-03
+iter 16,mu=1.7e+01,rank=15,stopALM=8.799e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=6.057e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=4.176e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=2.882e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.991e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=1.377e-04
+iter 22,mu=5.1e+01,rank=15,stopALM=9.530e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.960e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=8.134e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.563e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.776e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.580e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.882e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=3.931e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=3.805e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=3.492e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.784e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.648e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.050e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=9.555e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.045e+00
+iter 18, mu=2.4e+01, rank=15, stopALM=6.839e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.407e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.538e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.810e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.966e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=9.781e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=5.175e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=3.206e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=3.068e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.911e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.842e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.072e+00
+iter 19, mu=2.9e+01, rank=15, stopALM=7.646e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.182e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.264e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.191e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.251e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.828e-04
+iter 6,mu=2.7e+00,rank=15,stopALM=5.479e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.356e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.190e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.104e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.572e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=5.883e-06
+iter 1, mu=1.1e+00, rank=15, stopALM=7.961e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=9.548e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.964e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=8.040e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.201e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.414e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.082e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=3.774e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=1.436e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=5.906e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.604e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.309e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.212e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.119e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.024e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=9.246e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.166e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=8.299e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.161e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.664e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=7.234e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.113e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=2.183e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=6.251e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=2.811e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.685e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.346e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.024e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=8.196e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.652e-01
+iter 21, mu=4.2e+01, rank=15, stopALM=6.661e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.154e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=7.775e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.476e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.826e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.446e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=9.377e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=6.157e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=4.097e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=2.751e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.860e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.263e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=8.606e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=5.884e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=4.033e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=2.771e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=1.907e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=1.314e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=9.069e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.955e-01
+iter 22, mu=5.1e+01, rank=15, stopALM=7.847e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.688e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.141e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=1.077e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=6.772e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=4.342e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=2.821e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=1.852e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=1.228e-02
+iter 9,mu=4.7e+00,rank=15,stopALM=8.198e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=5.510e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=3.723e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=2.527e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=1.722e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=1.177e-03
+iter 15,mu=1.4e+01,rank=15,stopALM=8.065e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=5.539e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=3.811e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=2.626e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.812e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.252e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=8.654e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.888e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=7.678e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.726e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.151e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=1.787e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.321e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=7.061e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.700e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=6.620e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=2.023e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.778e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.527e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.276e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.033e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=8.049e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.170e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=8.127e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=2.049e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.409e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.122e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=7.215e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=4.594e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=3.024e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=2.007e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=1.343e-02
+iter 9,mu=4.7e+00,rank=15,stopALM=9.035e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=6.112e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=4.152e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=2.831e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=1.936e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=1.328e-03
+iter 15,mu=1.4e+01,rank=15,stopALM=9.122e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=6.279e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=4.328e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=2.987e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=2.064e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.427e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=9.874e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.342e-01
+iter 13, mu=9.8e+00, rank=15, stopALM=9.480e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.376e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.065e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=5.673e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.792e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.713e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=9.055e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=8.153e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=5.576e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=4.433e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=3.858e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.414e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.280e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.137e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=9.885e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.891e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=6.683e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.433e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.268e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.915e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.891e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.366e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=8.797e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=7.232e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=6.159e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=5.095e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=4.074e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.759e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.382e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.273e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=1.155e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=3.719e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.640e-01
+iter 17, mu=2.0e+01, rank=15, stopALM=8.577e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.927e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.163e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=2.470e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=6.166e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.728e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=5.380e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=1.845e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=6.910e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=4.424e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.955e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.559e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.486e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.324e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=1.154e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=6.312e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.987e-01
+iter 13, mu=9.8e+00, rank=15, stopALM=9.779e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.260e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.837e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.081e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=1.600e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.741e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=7.442e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=6.257e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.844e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=4.578e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=4.280e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.890e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.580e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.099e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=9.569e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.093e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=6.508e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.372e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.374e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.270e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=2.309e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=4.919e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.199e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=8.844e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=8.515e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.831e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.506e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.168e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=7.426e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.870e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=7.287e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.680e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.857e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.365e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.445e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.368e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.265e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=5.366e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=5.283e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.189e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=3.118e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=8.468e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.472e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=8.789e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.108e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.775e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.287e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.437e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.599e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.391e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=1.181e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=6.559e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.451e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.284e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.057e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.659e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=6.090e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.995e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=8.514e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=8.179e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=6.435e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.440e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.501e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.453e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=8.434e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=6.381e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.559e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.002e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.242e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.166e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.973e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.026e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=7.341e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.487e+00
+iter 17, mu=2.0e+01, rank=15, stopALM=8.955e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.310e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.428e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.406e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=3.732e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.138e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=3.767e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=1.357e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=6.165e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.581e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.635e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.409e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.264e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=7.077e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.153e-01
+iter 15, mu=1.4e+01, rank=15, stopALM=4.307e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.691e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.137e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=1.110e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=6.830e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=4.354e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=2.826e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=1.853e-02
+iter 8,mu=3.9e+00,rank=15,stopALM=1.223e-02
+iter 9,mu=4.7e+00,rank=15,stopALM=8.156e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=5.476e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=3.697e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=2.508e-03
+iter 13,mu=9.8e+00,rank=15,stopALM=1.707e-03
+iter 14,mu=1.2e+01,rank=15,stopALM=1.166e-03
+iter 15,mu=1.4e+01,rank=15,stopALM=7.990e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=5.485e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=3.773e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=2.599e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.793e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.238e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=8.561e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.757e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=6.113e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.125e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.172e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=4.287e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=4.514e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.362e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.149e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=5.698e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=5.048e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=4.601e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.310e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.044e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.837e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.619e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=6.090e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.796e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=9.330e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.153e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.109e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.610e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.567e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.127e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.055e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=7.391e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=3.848e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.940e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.562e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.177e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.796e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.181e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.953e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.569e-01
+iter 14, mu=1.2e+01, rank=15, stopALM=9.820e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.520e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=7.887e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.238e-01
+iter 4,mu=1.9e+00,rank=15,stopALM=7.357e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=2.657e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=1.043e-02
+iter 7,mu=3.3e+00,rank=15,stopALM=4.417e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.000e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=9.615e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=4.872e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.585e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.560e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.364e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=1.148e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=9.283e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.805e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=7.923e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.987e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.918e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.533e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.184e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.280e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.157e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=9.142e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.359e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.146e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.919e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.719e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.509e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=4.312e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.105e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=7.145e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.480e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.584e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=9.524e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.819e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=3.952e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=9.746e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=7.991e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.256e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.912e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=3.469e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.152e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.006e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=8.561e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.117e+00
+iter 20, mu=3.5e+01, rank=15, stopALM=6.328e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.091e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.778e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.092e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.758e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.307e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.233e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=8.497e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=6.212e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.710e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.008e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.883e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.745e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=8.620e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.385e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=6.602e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.854e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.762e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.019e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=1.519e-02
+iter 5,mu=2.3e+00,rank=15,stopALM=1.012e-02
+iter 6,mu=2.7e+00,rank=15,stopALM=6.798e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=4.591e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=3.114e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=2.121e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.449e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=9.927e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=7.632e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=5.027e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=3.231e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=2.758e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=4.334e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=4.334e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=7.362e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.032e+00
+iter 19, mu=2.9e+01, rank=15, stopALM=9.408e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.116e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.886e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.538e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.056e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.465e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=1.160e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=7.393e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.989e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=4.730e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.780e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.220e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.590e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.459e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=7.006e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.009e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.149e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.024e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.503e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.175e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=8.219e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=5.460e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.858e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=4.035e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=1.937e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=1.705e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.467e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.114e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=7.194e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.740e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=5.841e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.029e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.278e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.065e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.122e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.496e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=7.903e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=4.388e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=3.712e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=1.523e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=6.467e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.491e-01
+iter 19, mu=2.9e+01, rank=15, stopALM=8.685e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.060e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.380e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.573e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=3.758e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=2.236e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=9.199e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=6.417e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=6.007e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=3.423e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=3.137e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=6.463e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.976e-01
+iter 20, mu=3.5e+01, rank=15, stopALM=9.554e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.309e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=1.062e+00
+iter 3,mu=1.6e+00,rank=15,stopALM=3.105e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=2.419e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=1.152e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=9.875e-04
+iter 7,mu=3.3e+00,rank=15,stopALM=8.357e-04
+iter 8,mu=3.9e+00,rank=15,stopALM=4.957e-04
+iter 9,mu=4.7e+00,rank=15,stopALM=2.630e-04
+iter 10,mu=5.7e+00,rank=15,stopALM=2.573e-04
+iter 11,mu=6.8e+00,rank=15,stopALM=2.505e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=1.472e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=1.417e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=7.685e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.459e-01
+iter 19, mu=2.9e+01, rank=15, stopALM=7.953e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.123e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.655e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.600e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.013e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=6.096e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.037e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.117e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.217e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.895e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.400e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=9.998e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=9.100e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=5.210e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=4.479e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=3.866e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=2.352e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=1.922e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.550e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.202e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=7.216e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=7.758e-01
+iter 12, mu=8.2e+00, rank=15, stopALM=9.036e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.205e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=9.296e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.928e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.273e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=6.225e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.155e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.124e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.710e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.809e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.359e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=9.891e-04
+iter 12,mu=8.2e+00,rank=15,stopALM=8.735e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=5.998e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.340e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=4.790e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=2.641e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=2.309e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.970e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=9.333e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.590e-01
+iter 12, mu=8.2e+00, rank=15, stopALM=7.406e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.821e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.559e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.140e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.360e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=6.045e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.634e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=2.894e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.383e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.885e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.347e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.179e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=9.630e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=6.779e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.489e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=3.616e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=3.096e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=2.193e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.239e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=8.815e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.103e+00
+iter 16, mu=1.7e+01, rank=15, stopALM=6.845e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.108e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.448e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=3.210e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.341e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.809e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.202e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.023e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.525e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.732e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.446e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.118e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=8.777e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=7.557e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.486e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=3.294e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=2.712e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=2.161e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.658e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=8.303e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=1.257e+00
+iter 15, mu=1.4e+01, rank=15, stopALM=8.101e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.123e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.284e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=5.237e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.407e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.931e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.258e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.049e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.300e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.595e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.434e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.006e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=7.680e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=5.551e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=5.113e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=4.810e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=4.253e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=1.504e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.230e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.091e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=9.470e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.248e-01
+iter 18, mu=2.4e+01, rank=15, stopALM=7.525e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.684e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.414e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=2.707e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=8.323e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.951e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.353e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.379e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.341e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=1.830e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.478e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.192e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=5.942e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=4.624e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=3.167e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=2.467e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=2.248e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=2.013e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=1.766e-04
+iter 19,mu=2.9e+01,rank=15,stopALM=1.513e-04
+iter 20,mu=3.5e+01,rank=15,stopALM=1.260e-04
+iter 21,mu=4.2e+01,rank=15,stopALM=4.082e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=8.264e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=6.781e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=1.116e+00
+iter 2,mu=1.3e+00,rank=15,stopALM=8.423e-01
+iter 3,mu=1.6e+00,rank=15,stopALM=4.614e-02
+iter 4,mu=1.9e+00,rank=15,stopALM=9.539e-03
+iter 5,mu=2.3e+00,rank=15,stopALM=5.252e-03
+iter 6,mu=2.7e+00,rank=15,stopALM=4.281e-03
+iter 7,mu=3.3e+00,rank=15,stopALM=3.409e-03
+iter 8,mu=3.9e+00,rank=15,stopALM=2.484e-03
+iter 9,mu=4.7e+00,rank=15,stopALM=2.215e-03
+iter 10,mu=5.7e+00,rank=15,stopALM=1.340e-03
+iter 11,mu=6.8e+00,rank=15,stopALM=1.119e-03
+iter 12,mu=8.2e+00,rank=15,stopALM=7.187e-04
+iter 13,mu=9.8e+00,rank=15,stopALM=6.250e-04
+iter 14,mu=1.2e+01,rank=15,stopALM=4.494e-04
+iter 15,mu=1.4e+01,rank=15,stopALM=2.716e-04
+iter 16,mu=1.7e+01,rank=15,stopALM=1.799e-04
+iter 17,mu=2.0e+01,rank=15,stopALM=1.372e-04
+iter 18,mu=2.4e+01,rank=15,stopALM=9.984e-05
+iter 1, mu=1.1e+00, rank=15, stopALM=9.048e-01
+iter 16, mu=1.7e+01, rank=15, stopALM=9.108e-05
+iter 1,mu=1.1e+00,rank=15,stopALM=9.815e-01
+iter 2,mu=1.3e+00,rank=15,stopALM=7.453e-01
+{操作在以下过程中被用户终止 Forward
+
+
+位置 DPGSR_Fusion (第 104 行)
+    W = Forward(S, T, nt, lambda1);     % W size: N x M
+
+位置 test_tiny (第 40 行)
+                    [pred_fusion, ~, out] = DPGSR_Fusion(S, T, S_label, T_label, nt, ...
+} 
+{操作在以下过程中被用户终止 Forward
+
+
+位置 DPGSR_Fusion (第 104 行)
+    W = Forward(S, T, nt, lambda1);     % W size: N x M
+
+位置 test_tiny (第 40 行)
+                    [pred_fusion, ~, out] = DPGSR_Fusion(S, T, S_label, T_label, nt, ...
+} 

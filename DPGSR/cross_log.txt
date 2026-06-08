@@ -1,0 +1,379 @@
+ 
+要开始，请键入 doc。
+有关产品信息，请访问 www.mathworks.com。
+ 
+=============================================================
+Plan C: Residual Quality Gate Analysis
+K=15, train/class=8, splits=10, lambda=[1e-02, 1e-02]
+=============================================================
+
+iter 1,mu=1.1e+00,rank=120,stopALM=1.092e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=8.613e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=1.017e-01
+iter 4,mu=1.9e+00,rank=120,stopALM=4.483e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=2.196e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.155e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=6.397e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.691e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.200e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.346e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=8.416e-04
+iter 12,mu=8.2e+00,rank=120,stopALM=5.356e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=3.459e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=2.262e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=1.494e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=9.947e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=5.111e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=7.053e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=9.659e-01
+iter 2,mu=1.3e+00,rank=120,stopALM=7.128e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=9.641e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=3.854e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=1.930e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.021e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=5.910e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.690e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.347e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.516e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=9.925e-04
+iter 12,mu=8.2e+00,rank=120,stopALM=6.565e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=4.378e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=2.939e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=1.984e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.346e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=9.166e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=6.867e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=7.982e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.783e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=1.308e+00
+iter 3,mu=1.6e+00,rank=120,stopALM=1.260e-01
+iter 4,mu=1.9e+00,rank=120,stopALM=6.038e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=3.107e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.682e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=9.473e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=5.518e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.306e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=2.028e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.269e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=8.074e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=5.211e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=3.404e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=2.245e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.494e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=1.001e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=6.745e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=5.358e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=9.379e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.489e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=1.075e+00
+iter 3,mu=1.6e+00,rank=120,stopALM=1.172e-01
+iter 4,mu=1.9e+00,rank=120,stopALM=4.907e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=2.338e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.209e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=6.618e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.788e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.246e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.371e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=8.574e-04
+iter 12,mu=8.2e+00,rank=120,stopALM=5.717e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=3.837e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=2.591e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=1.757e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.196e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=8.173e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=5.184e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=8.814e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.001e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=8.039e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=8.979e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=4.406e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=2.398e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.372e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=8.146e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.975e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.108e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.980e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.281e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=8.385e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=5.543e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=3.695e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=2.479e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.673e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=1.135e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=7.727e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=5.380e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=8.684e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=9.996e-01
+iter 2,mu=1.3e+00,rank=120,stopALM=7.419e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=8.744e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=3.990e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=2.118e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.195e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=7.011e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.239e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.624e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.656e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.062e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=6.900e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=4.533e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=3.005e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=2.008e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.350e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=9.127e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=4.935e-01
+iter 13, mu=9.8e+00, rank=120, stopALM=9.751e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.076e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=7.269e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=1.080e-01
+iter 4,mu=1.9e+00,rank=120,stopALM=4.404e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=2.297e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.261e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=7.200e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.241e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.564e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.585e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=9.980e-04
+iter 12,mu=8.2e+00,rank=120,stopALM=6.384e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=4.138e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=2.713e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=1.795e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.197e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=8.037e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=5.827e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=7.427e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.090e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=8.486e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=9.852e-02
+iter 4,mu=1.9e+00,rank=120,stopALM=3.557e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=1.727e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.035e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=6.850e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=4.587e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=3.097e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=2.103e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.434e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=9.813e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=6.733e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=4.630e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=3.189e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=2.200e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=1.519e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=1.050e-04
+iter 19,mu=2.9e+01,rank=120,stopALM=7.265e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=6.202e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=9.480e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.105e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=8.231e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=1.179e-01
+iter 4,mu=1.9e+00,rank=120,stopALM=4.146e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=1.776e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=9.787e-03
+iter 7,mu=3.3e+00,rank=120,stopALM=6.062e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.821e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.445e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.586e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=1.085e-03
+iter 12,mu=8.2e+00,rank=120,stopALM=7.447e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=5.124e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=3.531e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=2.437e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=1.684e-04
+iter 17,mu=2.0e+01,rank=120,stopALM=1.165e-04
+iter 18,mu=2.4e+01,rank=120,stopALM=8.060e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=6.261e-01
+iter 14, mu=1.2e+01, rank=120, stopALM=6.639e-05
+iter 1,mu=1.1e+00,rank=120,stopALM=1.085e+00
+iter 2,mu=1.3e+00,rank=120,stopALM=8.196e-01
+iter 3,mu=1.6e+00,rank=120,stopALM=1.144e-01
+iter 4,mu=1.9e+00,rank=120,stopALM=5.090e-02
+iter 5,mu=2.3e+00,rank=120,stopALM=2.470e-02
+iter 6,mu=2.7e+00,rank=120,stopALM=1.276e-02
+iter 7,mu=3.3e+00,rank=120,stopALM=6.925e-03
+iter 8,mu=3.9e+00,rank=120,stopALM=3.913e-03
+iter 9,mu=4.7e+00,rank=120,stopALM=2.286e-03
+iter 10,mu=5.7e+00,rank=120,stopALM=1.373e-03
+iter 11,mu=6.8e+00,rank=120,stopALM=8.444e-04
+iter 12,mu=8.2e+00,rank=120,stopALM=5.296e-04
+iter 13,mu=9.8e+00,rank=120,stopALM=3.377e-04
+iter 14,mu=1.2e+01,rank=120,stopALM=2.184e-04
+iter 15,mu=1.4e+01,rank=120,stopALM=1.429e-04
+iter 16,mu=1.7e+01,rank=120,stopALM=9.438e-05
+iter 1, mu=1.1e+00, rank=120, stopALM=5.351e-01
+iter 13, mu=9.8e+00, rank=120, stopALM=9.489e-05
+--- Overall Statistics ---
+SG:            min=0.0446, max=1.0000, mean=0.4618, std=0.2411
+quality_contr: min=0.1190, max=1.0000, mean=0.8150, std=0.1962
+quality_abs:   min=0.4954, max=1.0000, mean=0.8708, std=0.1214
+quality_F:     min=0.0656, max=1.0000, mean=0.7333, std=0.2484
+alpha (Plan C): min=0.0000, max=0.7695, mean=0.0097, std=0.0637
+
+Alpha Range     Count    Fwd Acc    Rev Acc Fusion Acc   %Samples
+------------ -------- ---------- ---------- ---------- ----------
+[0.0, 0.1)      8206     0.9001     0.4781     0.9004      97.7%  qF=0.744
+[0.1, 0.2)        48     0.2917     0.1875     0.2917       0.6%  qF=0.277
+[0.2, 0.3)        27     0.4074     0.2222     0.2222       0.3%  qF=0.314
+[0.3, 0.4)        24     0.3333     0.2917     0.2917       0.3%  qF=0.284
+[0.4, 0.5)        36     0.2222     0.2500     0.2500       0.4%  qF=0.284
+[0.5, 0.6)        35     0.2857     0.4000     0.4000       0.4%  qF=0.261
+[0.6, 0.7)        18     0.2222     0.2222     0.2222       0.2%  qF=0.213
+[0.7, 0.8)         6     0.0000     0.1667     0.1667       0.1%  qF=0.148
+[0.8, 0.9)         0        NaN        NaN        NaN       0.0%  qF=NaN
+[0.9, 1.0)         0        NaN        NaN        NaN       0.0%  qF=NaN
+
+--- By Quality_F Bins ---
+Qual_F Range      Count    Fwd Acc    Rev Acc Fusion Acc Mean Alpha
+------------   -------- ---------- ---------- ---------- ----------
+[0.0, 0.2)       121     0.0992     0.1983     0.1818     0.1618
+[0.2, 0.4)      1200     0.4358     0.1933     0.4333     0.0477
+[0.4, 0.6)      1113     0.8491     0.2974     0.8455     0.0043
+[0.6, 0.8)      1473     0.9966     0.4243     0.9966     0.0000
+[0.8, 1.0)      4493     1.0000     0.6145     1.0000     0.0000
+
+--- When forward is WRONG ---
+Total forward errors: 959 / 8400 (11.42%)
+Fixed by fusion (trusted reverse): 56 (5.8% of errors)
+  Fixed samples:    alpha=0.367, SG=0.237, qF=0.269
+  NOT fixed samples: alpha=0.043, SG=0.240, qF=0.312
+
+--- When forward is RIGHT but fusion is WRONG ---
+Broken by fusion: 53 (alpha=0.352, SG=0.234, qF=0.302)
+
+--- When reverse is WRONG ---
+Total reverse errors: 4427 / 8400 (52.70%)
+Fixed by fusion (trusted forward): 3558 (80.4% of errors)
+  Fixed samples:    alpha=0.001, SG=0.426, qF=0.733
+
+=== KEY: When forward is WRONG, is reverse RIGHT? ===
+Forward errors total: 959
+  Reverse CORRECT:    139 (14.5% of fwd errors)
+  Reverse WRONG:      820 (85.5% of fwd errors)
+
+--- When forward WRONG but reverse RIGHT ---
+Total: 139
+  Fusion CORRECT (alpha high enough):    52 (37.4%)
+    -> alpha=0.389, SG=0.240, qF=0.272
+  Fusion WRONG   (alpha too low):        87 (62.6%)  <-- 融合浪费了逆向的正确判断
+    -> alpha=0.016, SG=0.218, qF=0.312
+
+--- When BOTH forward and reverse are WRONG ---
+Total: 820
+  Fusion still CORRECT (lucky): 4 (0.5%)
+
+--- Separability: FwdWrong+RevRight vs FwdRight+RevWrong ---
+Group                                 N       SG     SG_R       qF    alpha resRatio    nnFwd    nnRev    nnEnt -----                                 -       --     ----       --    -----  -------    -----    -----    -----
+Need HIGH alpha (FwdX,RevOK)        139    0.226    0.291    0.297    0.156    1.497    0.167    0.055    1.379
+Need LOW alpha (FwdOK,RevX)          53    0.234    0.305    0.302    0.352    1.220    0.034    0.192    1.436
+Reverse RIGHT (all)                3973    0.542    0.437    0.826    0.005    1.017    0.293    0.289    1.265
+Reverse WRONG (all)                4427    0.390    0.206    0.650    0.014   19.909    0.162    0.087    1.349
+
+--- Residual Ratio: RF(pred_R)/RF(pred_F) ---
+  Ratio < 1 = reverse class reconstructs BETTER than forward class
+  Ratio > 1 = forward class reconstructs BETTER than reverse class
+  FwdWrong+RevRight (need high alpha): mean=1.497, frac<1=0.0%
+  FwdRight+RevWrong (need low alpha):  mean=1.220, frac<1=0.0%
+  Disagree, FwdRight+RevWrong+FusionOK (alpha fine): mean=24.390, frac<1=0.0%
+
+--- k-NN (k=5) Neighborhood Consistency ---
+  All disagree cases (N=4385):
+    nnFwd=0.159, nnRev=0.081, nnEnt=1.348
+  Need HIGH alpha (FwdX,RevOK): nnFwd=0.167, nnRev=0.055, nnRev>nnFwd=12.2%
+  Need LOW alpha (FwdOK,RevX):   nnFwd=0.034, nnRev=0.192, nnFwd>nnRev=5.7%
+
+--- Cross-Probability Analysis ---
+  PFfwd = PF at forward-predicted class
+  PFrev = PF at reverse-predicted class (forward considers it)
+  PRfwd = PR at forward-predicted class (reverse considers it)
+  PRbi  = PR bimodality (gap12/gap23, high=2-class competition)
+
+Group                       PFfwd  PFrev  PRfwd   PRbi
+----                        -----  -----  -----   ----
+Need HIGH (FwdX,RevOK)      0.101  0.080  0.065 15.839
+Need LOW (FwdOK,RevX)       0.101  0.090  0.063 110.917
+Reverse RIGHT (all)         0.156  0.155  0.228 67.980
+Reverse WRONG (all)         0.138  0.065  0.086 50.315
+
+--- Correlations ---
+corr(SG, quality_F)      = +0.6599
+corr(SG, quality_contrast)= +0.6230
+corr(SG, quality_abs)    = +0.6580
+
+Overall          8400     0.8858     0.4730     0.8862
+
+--- Per-sample detail (first 20) ---
+Sample  Alpha    SG   qF  qContrast  qAbs  Fwd  Rev  Fusion  Truth
+------  -----  ----  ---  ---------  ----  ---  ---  ------  -----
+     1  0.000  0.44 0.86    0.923   0.93   OK    X    OK       1
+     2  0.000  0.85 0.90    0.943   0.95   OK    X    OK       1
+     3  0.000  0.46 0.44    0.604   0.74   OK    X    OK       1
+     4  0.000  0.36 0.75    0.850   0.88   OK    X    OK       1
+     5  0.000  0.22 0.54    0.693   0.78   OK   OK    OK       1
+     6  0.000  0.47 0.68    0.805   0.85   OK    X    OK       1
+     7  0.000  0.83 0.95    0.975   0.98   OK   OK    OK       1
+     8  0.000  0.70 0.79    0.877   0.89   OK   OK    OK       1
+     9  0.000  0.85 0.95    0.975   0.98   OK    X    OK       1
+    10  0.000  0.23 0.40    0.558   0.71    X    X     X       1
+    11  0.000  0.55 0.98    0.991   0.99   OK    X    OK       1
+    12  0.024  0.23 0.34    0.511   0.67   OK    X    OK       1
+    13  0.000  0.44 0.96    0.976   0.98   OK    X    OK       1
+    14  0.000  0.64 0.80    0.887   0.91   OK    X    OK       1
+    15  0.000  0.18 0.41    0.573   0.72   OK   OK    OK       1
+    16  0.000  0.48 0.84    0.912   0.93   OK    X    OK       1
+    17  0.000  0.83 0.99    0.997   1.00   OK   OK    OK       1
+    18  0.000  0.36 0.67    0.798   0.84   OK   OK    OK       1
+    19  0.000  0.49 0.85    0.913   0.93   OK    X    OK       1
+    20  0.000  0.19 0.30    0.457   0.66   OK    X    OK       1
+
+=== Calibration: alpha vs actual reverse accuracy ===
+Only prediction-disagree samples (N=4385)
+
+alpha_raw bin       Count   RevAcc   optAlpha   curAlpha        gap
+-------------      ------   ------   --------   --------       ----
+[0.00, 0.10)       1622    0.000      0.000      0.000     -0.000
+[0.10, 0.20)        680    0.004      0.004      0.000      0.004
+[0.20, 0.30)        468    0.006      0.006      0.004      0.003
+[0.30, 0.40)        399    0.015      0.015      0.008      0.007
+[0.40, 0.50)        424    0.059      0.059      0.029      0.030
+[0.50, 0.60)        452    0.133      0.133      0.056      0.076
+[0.60, 0.70)        289    0.114      0.114      0.101      0.013
+[0.70, 0.80)         51    0.176      0.176      0.190     -0.013
+[0.80, 0.90)          0   (skip)          -          -          -
+[0.90, 1.00)          0   (skip)          -          -          -
+
+--- Summary ---
+Perfect calibration: curAlpha ≈ RevAcc in every bin.
+If curAlpha << RevAcc → alpha too low,  losing fixes.
+If curAlpha >> RevAcc → alpha too high, causing broken.
+
+=== Per-signal calibration ===
+
+--- 1-SG (lo=bad) ---
+  Bin               Count   RevAcc
+  [ 0.027, 0.346]      633    0.005
+  [ 0.346, 0.481]      603    0.003
+  [ 0.481, 0.616]      775    0.015
+  [ 0.616, 0.750]      924    0.029
+  [ 0.750, 0.955]     1450    0.066
+
+--- 1-qF (lo=bad) ---
+  Bin               Count   RevAcc
+  [ 0.003, 0.172]     1586    0.000
+  [ 0.172, 0.321]      696    0.000
+  [ 0.321, 0.471]      540    0.004
+  [ 0.471, 0.620]      585    0.036
+  [ 0.620, 0.934]      978    0.119
+
+--- resRatio (hi=bad) ---
+  Bin               Count   RevAcc
+  [ 1.000,18.851]     3288    0.042
+  [18.851,36.474]      459    0.000
+  [36.474,54.097]      221    0.000
+  [54.097,71.721]      123    0.000
+  [71.721,671.948]      294    0.000
+
+--- PR_margin (lo=bad) ---
+  Bin               Count   RevAcc
+  [ 0.000, 0.022]     2195    0.017
+  [ 0.022, 0.042]      996    0.031
+  [ 0.042, 0.062]      523    0.042
+  [ 0.062, 0.082]      299    0.047
+  [ 0.082, 0.997]      372    0.091

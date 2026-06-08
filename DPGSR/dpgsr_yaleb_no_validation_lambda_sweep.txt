@@ -1,0 +1,254 @@
+
+
+==============================
+Date: 27-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.586936, lambda1:0.01, lambda2:0.01, time:7.858063
+Repeat:2, class:38, train/class:8, test_acc:0.605263, lambda1:0.01, lambda2:0.01, time:8.061391
+Repeat:3, class:38, train/class:8, test_acc:0.607143, lambda1:0.01, lambda2:0.01, time:7.639286
+Repeat:4, class:38, train/class:8, test_acc:0.616071, lambda1:0.01, lambda2:0.01, time:7.797100
+Repeat:5, class:38, train/class:8, test_acc:0.601034, lambda1:0.01, lambda2:0.01, time:7.873565
+Repeat:6, class:38, train/class:8, test_acc:0.605263, lambda1:0.01, lambda2:0.01, time:7.696877
+Repeat:7, class:38, train/class:8, test_acc:0.614662, lambda1:0.01, lambda2:0.01, time:7.851513
+Repeat:8, class:38, train/class:8, test_acc:0.601034, lambda1:0.01, lambda2:0.01, time:7.762122
+
+
+==============================
+Date: 27-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.586936, lambda1:0.01, lambda2:0.01, time:8.011678
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.01, avgbcc:0.586936, stdbcc:0.000000, minbcc:0.586936, maxbcc:0.586936, avgtim:8.011678
+
+Testing lambda1 = 0.01, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.490602, lambda1:0.01, lambda2:0.1, time:10.521386
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.1, avgbcc:0.490602, stdbcc:0.000000, minbcc:0.490602, maxbcc:0.490602, avgtim:10.521386
+
+Testing lambda1 = 0.01, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.428571, lambda1:0.01, lambda2:1, time:15.569183
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:1, avgbcc:0.428571, stdbcc:0.000000, minbcc:0.428571, maxbcc:0.428571, avgtim:15.569183
+
+Testing lambda1 = 0.01, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.568609, lambda1:0.01, lambda2:10, time:24.264517
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:10, avgbcc:0.568609, stdbcc:0.000000, minbcc:0.568609, maxbcc:0.568609, avgtim:24.264517
+
+Testing lambda1 = 0.1, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.625940, lambda1:0.1, lambda2:0.01, time:11.001049
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:0.01, avgbcc:0.625940, stdbcc:0.000000, minbcc:0.625940, maxbcc:0.625940, avgtim:11.001049
+
+Testing lambda1 = 0.1, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.502350, lambda1:0.1, lambda2:0.1, time:13.744442
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:0.1, avgbcc:0.502350, stdbcc:0.000000, minbcc:0.502350, maxbcc:0.502350, avgtim:13.744442
+
+Testing lambda1 = 0.1, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.447368, lambda1:0.1, lambda2:1, time:19.433574
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:1, avgbcc:0.447368, stdbcc:0.000000, minbcc:0.447368, maxbcc:0.447368, avgtim:19.433574
+
+Testing lambda1 = 0.1, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.589756, lambda1:0.1, lambda2:10, time:25.711212
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:10, avgbcc:0.589756, stdbcc:0.000000, minbcc:0.589756, maxbcc:0.589756, avgtim:25.711212
+
+Testing lambda1 = 1, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.734962, lambda1:1, lambda2:0.01, time:13.225280
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:0.01, avgbcc:0.734962, stdbcc:0.000000, minbcc:0.734962, maxbcc:0.734962, avgtim:13.225280
+
+Testing lambda1 = 1, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.576598, lambda1:1, lambda2:0.1, time:15.809626
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:0.1, avgbcc:0.576598, stdbcc:0.000000, minbcc:0.576598, maxbcc:0.576598, avgtim:15.809626
+
+Testing lambda1 = 1, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.506109, lambda1:1, lambda2:1, time:17.644972
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:1, avgbcc:0.506109, stdbcc:0.000000, minbcc:0.506109, maxbcc:0.506109, avgtim:17.644972
+
+Testing lambda1 = 1, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.637218, lambda1:1, lambda2:10, time:22.434527
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:10, avgbcc:0.637218, stdbcc:0.000000, minbcc:0.637218, maxbcc:0.637218, avgtim:22.434527
+
+Testing lambda1 = 10, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.793703, lambda1:10, lambda2:0.01, time:12.180336
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:0.01, avgbcc:0.793703, stdbcc:0.000000, minbcc:0.793703, maxbcc:0.793703, avgtim:12.180336
+
+Testing lambda1 = 10, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.698308, lambda1:10, lambda2:0.1, time:14.464950
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:0.1, avgbcc:0.698308, stdbcc:0.000000, minbcc:0.698308, maxbcc:0.698308, avgtim:14.464950
+
+Testing lambda1 = 10, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.611372, lambda1:10, lambda2:1, time:18.661793
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:1, avgbcc:0.611372, stdbcc:0.000000, minbcc:0.611372, maxbcc:0.611372, avgtim:18.661793
+
+Testing lambda1 = 10, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.686090, lambda1:10, lambda2:10, time:23.665130
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:10, avgbcc:0.686090, stdbcc:0.000000, minbcc:0.686090, maxbcc:0.686090, avgtim:23.665130
+
+BEST TEST-SWEEP PARAMETER PAIR:
+lambda1:10, lambda2:0.01, avg_acc:0.793703
+
+
+==============================
+Date: 27-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:0.01, time:8.080239
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.01, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:8.080239
+
+Testing lambda1 = 0.01, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:0.1, time:9.682743
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.1, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:9.682743
+
+Testing lambda1 = 0.01, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:1, time:14.391990
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:1, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:14.391990
+
+Testing lambda1 = 0.01, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:10, time:19.539527
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:10, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:19.539527
+
+Testing lambda1 = 0.1, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.881109, lambda1:0.1, lambda2:0.01, time:9.041887
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:0.01, avgbcc:0.881109, stdbcc:0.000000, minbcc:0.881109, maxbcc:0.881109, avgtim:9.041887
+
+Testing lambda1 = 0.1, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.881109, lambda1:0.1, lambda2:0.1, time:11.043666
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:0.1, avgbcc:0.881109, stdbcc:0.000000, minbcc:0.881109, maxbcc:0.881109, avgtim:11.043666
+
+Testing lambda1 = 0.1, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.881109, lambda1:0.1, lambda2:1, time:16.172078
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:1, avgbcc:0.881109, stdbcc:0.000000, minbcc:0.881109, maxbcc:0.881109, avgtim:16.172078
+
+Testing lambda1 = 0.1, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.881109, lambda1:0.1, lambda2:10, time:22.227587
+SUMMARY, class:38, train/class:8, lambda1:0.1, lambda2:10, avgbcc:0.881109, stdbcc:0.000000, minbcc:0.881109, maxbcc:0.881109, avgtim:22.227587
+
+Testing lambda1 = 1, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.870301, lambda1:1, lambda2:0.01, time:12.120470
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:0.01, avgbcc:0.870301, stdbcc:0.000000, minbcc:0.870301, maxbcc:0.870301, avgtim:12.120470
+
+Testing lambda1 = 1, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.870301, lambda1:1, lambda2:0.1, time:12.449847
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:0.1, avgbcc:0.870301, stdbcc:0.000000, minbcc:0.870301, maxbcc:0.870301, avgtim:12.449847
+
+Testing lambda1 = 1, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.870301, lambda1:1, lambda2:1, time:17.137785
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:1, avgbcc:0.870301, stdbcc:0.000000, minbcc:0.870301, maxbcc:0.870301, avgtim:17.137785
+
+Testing lambda1 = 1, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.870301, lambda1:1, lambda2:10, time:24.311125
+SUMMARY, class:38, train/class:8, lambda1:1, lambda2:10, avgbcc:0.870301, stdbcc:0.000000, minbcc:0.870301, maxbcc:0.870301, avgtim:24.311125
+
+Testing lambda1 = 10, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.776316, lambda1:10, lambda2:0.01, time:14.218963
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:0.01, avgbcc:0.776316, stdbcc:0.000000, minbcc:0.776316, maxbcc:0.776316, avgtim:14.218963
+
+Testing lambda1 = 10, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.776316, lambda1:10, lambda2:0.1, time:14.129147
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:0.1, avgbcc:0.776316, stdbcc:0.000000, minbcc:0.776316, maxbcc:0.776316, avgtim:14.129147
+
+Testing lambda1 = 10, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.776316, lambda1:10, lambda2:1, time:19.399467
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:1, avgbcc:0.776316, stdbcc:0.000000, minbcc:0.776316, maxbcc:0.776316, avgtim:19.399467
+
+Testing lambda1 = 10, lambda2 = 10
+Repeat:1, class:38, train/class:8, test_acc:0.776316, lambda1:10, lambda2:10, time:23.913018
+SUMMARY, class:38, train/class:8, lambda1:10, lambda2:10, avgbcc:0.776316, stdbcc:0.000000, minbcc:0.776316, maxbcc:0.776316, avgtim:23.913018
+
+BEST TEST-SWEEP PARAMETER PAIR:
+lambda1:0.1, lambda2:0.01, avg_acc:0.881109
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:0.01, time:8.275272
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.01, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:8.275272, avg_alpha:0.000000, std_alpha:0.000000
+
+Testing lambda1 = 0.01, lambda2 = 0.1
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:0.1, time:9.960950
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.1, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:9.960950, avg_alpha:0.000000, std_alpha:0.000000
+
+Testing lambda1 = 0.01, lambda2 = 1
+Repeat:1, class:38, train/class:8, test_acc:0.879699, lambda1:0.01, lambda2:1, time:14.386308
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:1, avgbcc:0.879699, stdbcc:0.000000, minbcc:0.879699, maxbcc:0.879699, avgtim:14.386308, avg_alpha:0.000000, std_alpha:0.000000
+
+Testing lambda1 = 0.01, lambda2 = 10
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
+Repeat:1, class:38, train/class:8, test_acc:0.586936, lambda1:0.01, lambda2:0.01, time:7.692341
+SUMMARY, class:38, train/class:8, lambda1:0.01, lambda2:0.01, avgbcc:0.586936, stdbcc:0.000000, minbcc:0.586936, maxbcc:0.586936, avgtim:7.692341, avg_alpha:0.764044, std_alpha:0.146697
+
+Testing lambda1 = 0.01, lambda2 = 0.1
+
+
+==============================
+Date: 28-May-2026
+DP-GSR no-validation lambda sweep
+==============================
+
+Classes = 38, train/class = 8
+
+Testing lambda1 = 0.01, lambda2 = 0.01
