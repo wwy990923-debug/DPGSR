@@ -1,8 +1,0 @@
- 
-要开始，请键入 doc。
-有关产品信息，请访问 www.mathworks.com。
- 
- cd('e:\matlabcode\DPGSR'); rng(1); load('pcayaleb50.mat'); D=double(dataset); K=15;N=64;nT=8;nS=5; thr_vals=[0.5,0.55,0.6,0.65,0.7]; fprintf('Soft & Hard verification gate sweep\n\n'); for ti=1:length(thr_vals); th=thr_vals(ti); fwd=zeros(nS,1);fus_h=zeros(nS,1);fus_s=zeros(nS,1); for m=1:nS; tc=cell(K,1);sc=cell(K,1); for c=1:K;p=randperm(N);tc{c}=p(1:nT);sc{c}=p(nT+1:end);end; S=[];Sl=[];for c=1:K;for i=1:nT;col=(c-1)*N+tc{c}(i);S=[S D(:,col)];Sl=[Sl c];end;end;T=[];Tl=[];for c=1:K;for i=1:(N-nT);col=(c-1)*N+sc{c}(i);T=[T D(:,col)];Tl=[Tl c];end;end; [~,~,o]=DPGSR_Fusion(S,T,Sl,Tl,nT,1e-1,1e-2,'adaptive',[],[],th,0.05); [~,pf]=max(o.PF,[],1);[~,pr]=max(o.PR,[],1); Z=o.D;M=size(T,2); fwd(m)=sum(o.classes(pf)==Tl)/M; % hard fuse Score_h=zeros(K,M); for j=1:M; verif=norm(Z(j,Sl==o.classes(pf(j))),2)/(norm(Z(j,:),2)+1e-12); PRm=sort(o.PR(:,j),'descend'); PRm=PRm(1)-PRm(2); if verif>th;alfa=0;elseif PRm>0.05;alfa=1;else;alfa=0;end; Score_h(:,j)=(1-alfa)*o.PF(:,j)+alfa*o.PR(:,j); end; [~,ph]=max(Score_h,[],1); fus_h(m)=sum(o.classes(ph)==Tl)/M; % soft fuse Score_s=zeros(K,M); for j=1:M; verif=norm(Z(j,Sl==o.classes(pf(j))),2)/(norm(Z(j,:),2)+1e-12); alfa=1-verif; Score_s(:,j)=(1-alfa)*o.PF(:,j)+alfa*o.PR(:,j); end; [~,ps]=max(Score_s,[],1); fus_s(m)=sum(o.classes(ps)==Tl)/M; end; fprintf('th=%.2f fwd=%.4f fus_hard=%.4f fus_soft=%.4f\n',th,mean(fwd),mean(fus_h),mean(fus_s)); end; exit;
- |
-{错误: 该语句不完整。
-} 
