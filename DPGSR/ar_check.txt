@@ -1,8 +1,0 @@
- 
-要开始，请键入 doc。
-有关产品信息，请访问 www.mathworks.com。
- 
-  Name           Size                Bytes  Class     Attributes
-
-  dataset      100x3120            2496000  double              
-
